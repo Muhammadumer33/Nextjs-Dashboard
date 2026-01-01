@@ -1,4 +1,6 @@
 # 🚀 Next.js Dashboard
+## 🎥 Video Demo
+https://github.com/user-attachments/assets/3c6e9df9-0ae9-417e-9fa4-7adc53e7b1c4
 
 Welcome to the **Next.js Dashboard Project**!
 
